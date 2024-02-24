@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="moviedb">MovieDB</string>
+    <string name="sort">SORT</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+    <string name="detail_text_overviewHeader">Overview</string>
+    <string name="detail_text_castHeader">Cast</string>
+    <string name="detail_tagline">\"%1$s\"</string>
+    <string name="all_movies">All Movies</string>
+</resources>
